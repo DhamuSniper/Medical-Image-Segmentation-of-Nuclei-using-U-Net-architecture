@@ -15,3 +15,8 @@ By automating nucleus detection, you could help unlock cures faster—from rare 
 
 Alot of the work in this notework was provided by Kjetil Åmdal-SævikKeras who made the "U-Net starter - LB 0.277" the top rated Kernel on Kaggle.
 https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
+
+
+# Dataset
+
+Dataset can be dowloaded here: https://www.kaggle.com/c/data-science-bowl-2018/data
